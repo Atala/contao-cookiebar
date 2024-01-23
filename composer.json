@@ -18,9 +18,6 @@
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.10"
     },
-    "conflict": {
-        "contao/manager-plugin": "<2.0 || >=3.0"
-    },
     "autoload": {
         "psr-0": {
             "Codefog\\Cookiebar\\": "src/"
